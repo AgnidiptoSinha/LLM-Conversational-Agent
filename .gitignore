@@ -6,8 +6,8 @@ target/
 *.log
 
 # Project specific
-conversations/
-logs/
+#conversations/
+#logs/
 
 # OS specific
 .DS_Store
